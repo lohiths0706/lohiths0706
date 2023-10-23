@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Lohith S</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on **Hospital management**
+- 🔭 I’m currently working on **REST API SHOP**
 
-- 🌱 I’m currently learning **Django,React**
+- 🌱 I’m currently learning **Django,React,node.js,mongodb**
 
-- 👨‍💻 All of my projects are available at [https://lohith-seven.vercel.app/](https://lohith-seven.vercel.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-new-git-master-lohiths0706.vercel.app/
 
-- 💬 Ask me about **Django, Java**
+- 💬 Ask me about **Django, Java, sql, react.js**
 
 - 📫 How to reach me **lohiths.20cse@kongu.edu**
 
